@@ -18,7 +18,7 @@ the FontAwesome mix of icons.
 
 ![OpenWeather](https://i.ibb.co/gvQhN30/Screen-Shot-2020-03-12-at-2-39-57-PM.png)
 
-The other projects are also pretty to good to understand the interaction
+The other projects are also pretty good to understand the interaction
 between components and styling using css.
 
 
